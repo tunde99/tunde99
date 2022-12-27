@@ -1,6 +1,6 @@
-👋 Hey there, I’m Tunde!
+👋 Hey there, I am Tunde!
 
-I’m interested in Conversational AI.
+I am interested in Conversational AI.
 
 📫 Read more: https://tundeajayi.github.io/
 
