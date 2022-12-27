@@ -1,6 +1,6 @@
 👋 Hey there, I’m Tunde!
 
-I’m interested in Conversational AI and I am currently learning how to build multi-modal dialogue systems.
+I’m interested in Conversational AI, currently learning how to build multi-modal dialogue systems.
 
 📫 Read more: https://tundeajayi.github.io/
 
