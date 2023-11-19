@@ -1,4 +1,4 @@
-👋 Hey there, I am Tunde!
+👋 Hey there, I am Tunde.
 
 I am interested in Conversational AI.
 
